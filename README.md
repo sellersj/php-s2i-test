@@ -1,0 +1,1 @@
+# php-s2i-test
